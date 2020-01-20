@@ -1,5 +1,5 @@
 # Guild2EngineEx
-Guild II has some LUA modding capabilities. Unfortunetely, it is very limited. Therefore I decided to expand those by some GuildII.exe patches and this extension .dll.
+Guild II has LUA modding capabilities. Unfortunately, it is very limited. Therefore, I decided to expand those by some GuildII.exe patches and this extension DLL.
 
 Currently this extension adds the following LUA functions:
 
