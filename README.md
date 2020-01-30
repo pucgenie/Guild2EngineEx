@@ -5,8 +5,9 @@ Currently this extension adds the following LUA functions:
 
 |Name|Description|
 |---|---|
-|GeeType(Number or Table or String variable)|Returns the type of the variable as integer|
-|GeeVersion()|Returns the current engine extension version (=1)|
+|GeeType(Number or Table or String or Boolean variable)|Returns the type of the variable as integer|
+|GeeVersion()|Returns the current engine extension version (=2)|
+|GeeLength(String or Table)|Returns the length of the parameter|
 
 
 # How to Install

@@ -6,6 +6,6 @@
 #pragma once
 
 #include "targetver.h"
-
+#include <Windows.h>
 
 // Hier auf zusätzliche Header verweisen, die das Programm benötigt.

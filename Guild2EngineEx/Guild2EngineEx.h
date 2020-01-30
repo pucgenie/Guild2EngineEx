@@ -4,6 +4,6 @@ extern "C" void __declspec(dllexport) __cdecl GeeRegisterExtension(int luaRegist
 
 
 typedef struct _new_lua_function {
-	const char * func_name;
-	int ( *func)(LuaState*);
+	LPCSTR func_name;
+	int ( *func)(lua_State*);
 	} new_lua_function;
